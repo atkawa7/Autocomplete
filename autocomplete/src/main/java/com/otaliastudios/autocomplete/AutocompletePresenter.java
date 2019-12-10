@@ -2,7 +2,7 @@ package com.otaliastudios.autocomplete;
 
 import android.content.Context;
 import android.database.DataSetObserver;
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 import android.view.ViewGroup;
 
 /**

@@ -1,12 +1,10 @@
 package com.otaliastudios.autocomplete;
 
 import android.database.DataSetObserver;
-import android.graphics.Color;
-import android.graphics.drawable.ColorDrawable;
 import android.graphics.drawable.Drawable;
 import android.os.Handler;
 import android.os.Looper;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import android.text.Editable;
 import android.text.Selection;
 import android.text.SpanWatcher;
@@ -16,7 +14,6 @@ import android.text.TextWatcher;
 import android.util.Log;
 import android.util.TypedValue;
 import android.view.Gravity;
-import android.view.Window;
 import android.view.WindowManager;
 import android.widget.EditText;
 import android.widget.PopupWindow;

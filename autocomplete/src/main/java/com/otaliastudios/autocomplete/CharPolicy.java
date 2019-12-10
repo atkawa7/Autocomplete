@@ -1,10 +1,9 @@
 package com.otaliastudios.autocomplete;
 
-import android.support.annotation.CallSuper;
-import android.support.annotation.Nullable;
+import androidx.annotation.CallSuper;
+import androidx.annotation.Nullable;
 import android.text.Spannable;
 import android.text.Spanned;
-import android.text.TextUtils;
 import android.util.Log;
 
 
